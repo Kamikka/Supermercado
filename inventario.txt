@@ -1,1 +1,1 @@
-Este fichero contendrá el inventario disponible del supermercado
+Este fichero contendrá el inventario disponible del supermercado de los ultimos dos años 
